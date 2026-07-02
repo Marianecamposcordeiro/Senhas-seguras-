@@ -19,12 +19,12 @@ body{
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
-
 .parametro-senha-botoes{
     display: flex;
     justify-content: center;
 }
 
+}
 .parametro-senha__botao{
     background-color: var(--fundo-texto);
     color: var(--branco);
